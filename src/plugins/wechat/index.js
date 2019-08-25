@@ -1,4 +1,4 @@
-import { wx } from './1.3.2.js'
+import { wx } from './1.4.0.js'
 
 const plugin = {
   install (Vue) {
